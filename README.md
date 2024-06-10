@@ -1,7 +1,7 @@
 # Awesome React Libraries
 
-![React Libraries](![image](https://github.com/Binary-Shade/useful-reactJS-libraries/assets/115919438/a5d2172e-761f-4ef6-990e-1c2706aa9fa3)
-)
+![image](https://github.com/Binary-Shade/useful-reactJS-libraries/assets/115919438/ccfc34d4-eca6-4be6-92cd-50b2ac276ee9)
+
 
 Welcome to the **Awesome React Libraries** repository! This curated list aims to showcase the best and most powerful React libraries you should consider using in 2024. Whether you're building a simple web app or a complex application, these libraries will help optimize your workflow and enhance your development experience.
 
