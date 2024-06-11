@@ -17,7 +17,6 @@ Welcome to the **Awesome React Libraries** repository! This curated list aims to
 8. [Payments](#payments)
 9. [AR/VR](#arvr)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Routing and Navigation
 
@@ -91,10 +90,6 @@ We welcome contributions from the community! If you have a library that you thin
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
